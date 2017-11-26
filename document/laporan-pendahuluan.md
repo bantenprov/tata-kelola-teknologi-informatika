@@ -110,7 +110,7 @@ Pembagian tugas dari masing-masing tenaga ahli dan tenag pendukung adalah sebaga
 
 Tabel 1.1 Tenaga Ahli dan Tenaga Pendukung-Fungsi dan Tanggungjawab:
 
-![tabel tenaga ahli](..document/images/laporan-pendahuluan/tabel-tenaga-ahli-dan-pendukung.png)
+![tabel tenaga ahli](../document/images/laporan-pendahuluan/tabel-tenaga-ahli-dan-pendukung.png)
 
 ### 1.4 Lokasi Kegiatan
 
