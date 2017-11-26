@@ -96,11 +96,11 @@ Berikut ini adalah struktur organisasi dan bagan koordinasi pada pekerjaan ini:
 
 Gambar 1.1. Bagan Organisasi Proyek:
 
-![bagan organisasi proyek](../images/laporan-pendahuluan/bagan-organisasi-proyek.png)
+![bagan organisasi proyek](../document/images/laporan-pendahuluan/bagan-organisasi-proyek.png)
 
 Gambar 1.2. Bagian Koordinasi Tim Konsultan & Tim Diskominfo Provinsi Banten:
 
-![bagan koordinasi](../images/laporan-prndahuluan/bagam-koordinasi.png)
+![bagan koordinasi](../document/images/laporan-prndahuluan/bagam-koordinasi.png)
 
 #### 1.3.2 Tugas dan Tanggungjawab
 
@@ -164,7 +164,7 @@ Berikut ini adalah model dari perencanaan strategis antara lain :
   
 Model dari proses pembuatan perencanaan strategis secara umum yang sering diimplementasikan oleh perusahaan–perusahaan besar sesuai dengan fokus bisnisnya, digambarkan sebagai berikut:
 
-![strategic planning](../images/laporan-pendahuluan/strategic-planning-process-model.png)
+![strategic planning](../document/images/laporan-pendahuluan/strategic-planning-process-model.png)
 
 ### 2.5 Penyusunan Draft Pedoman Teknis Tata kelola TIK Diskominfo Provinsi Banten
 
@@ -207,7 +207,7 @@ Berikut adalah diagram teknologi informasi sebagai processing tool dari sejumlah
 
 Gambar 3.1 Information Technology Resource:
 
-![information technology](../images/laporan-pendahuluan/information-technology-resources.png)
+![information technology](../document/images/laporan-pendahuluan/information-technology-resources.png)
 
 Mengacu pada pendekatan 5 komponen dasar sumber daya teknologi informasi tersebut, berikut adalah pokok-pokok pikiran yang sepatutnya bisa dijawab oleh Pengembangan Teknologi Informasi di Pemerintahan Provinsi Banten.
 
@@ -251,13 +251,13 @@ Skenario pelaksanaan kegiatan proyek ini dikembangkan berdasarkan sistematika la
 
 Gambar 3.2. Skenario Kegiatan Proyek:
 
-![skenario kegiatan](../images/laporan-pendahluan/skenario-kegiatan-proyek.png)
+![skenario kegiatan](../document/images/laporan-pendahluan/skenario-kegiatan-proyek.png)
 
 Pada hakekatnya, pendekatan teknis adalah tahapan atau fase-fase yang dijalankan secara berurutan agar sasaran proyek bisa tercapai. Sementara kerangka kerja merupakan aspek-aspek yang difokuskan dalam setiap fase yang ada.
 
 Gambar 3.3. Kerangka Kerja:
 
-![kerangka kerja](../images/laopran-pendahuluan/kerangka-kerja.png)
+![kerangka kerja](../document/images/laopran-pendahuluan/kerangka-kerja.png)
 
 i. **Strategi**<br>
    Fokus Strategi adalah pada visi, misi dan sasaran TI, kebijakan yang perlu dibuat, rencana & tahapan pengembangan, rencana pemaduan sistem dan hal-hal lainnya yang bersifat strategis.
@@ -277,7 +277,7 @@ Agar pekerjaan dapat dilaksanakan secara efektif dan efisien, harus dibuat suatu
 
 Gambar 3.4. Metodologi Pelaksanaan Pekerjaan:
 
-![metodologi pelaksanaan](../images/laporan-pendahuluan/metodologi-pelaksanaan-pekerjaan.png)
+![metodologi pelaksanaan](../document/images/laporan-pendahuluan/metodologi-pelaksanaan-pekerjaan.png)
 
 **Rincian Kegiatan:**<br>
     Lingkup Pekerjaan Penyusunan Pedoman Teknis Tata Kelola TIK mencakup antara lain kegiatan-kegiatan:
@@ -332,7 +332,7 @@ Gambar 3.4. Metodologi Pelaksanaan Pekerjaan:
    
 Gambar 3.5. Industry Best Practice:
 
-![industry best practice](../images/laporan-pendahuluan/industry-best-practice.png)
+![industry best practice](../document/images/laporan-pendahuluan/industry-best-practice.png)
 
 #### 3.2.3 Metodologi Penyusunan _Master Plan_ IT
 
@@ -350,13 +350,13 @@ _High level roadmap_ dijelaskan kemudian untuk mengarah pada diskusi mengenai pe
 
 Gambar 3.6. Diagram Konseptual Penyusunan Pedoman Teknis Tata Kelola TIK:
 
-![diagram konseptual](../images/laporan-pendahuluan/diagram-konseptual.png)
+![diagram konseptual](../document/images/laporan-pendahuluan/diagram-konseptual.png)
 
 Atas dasar konseptual Penyusunan diatas, maka Metode Penyusunan Pedoman Teknis Tata Kelola TIK dapat ditentukan sebagai berikut:
 
 Gambar 3.7. Metode Metode Penyusunan Pedoman Teknis TataKelola TIK:
 
-![metode metode penyusunan](../images/laopran-pendahuluan/metode-metode-penyusunan-pedoman-teknis.png)
+![metode metode penyusunan](../document/images/laopran-pendahuluan/metode-metode-penyusunan-pedoman-teknis.png)
 
 Metodologi Penyusunan Pedoman Teknis Tata Kelola TIK adalah hasil kolaborasi dari **Keputusan MENKOMINFO No. 57/KEPMEN/M.KOMINFO/12/2003** tentang “Panduan Penyusunan Rencana Induk Pengembangan e-Government Lembaga” dengan Diskominfo Provinsi Banten dan penyusunan perencanaan strategis teknologi informasi (_Strategic Planning for Information Systems , John Ward & Joe Peppard, Bedfordshire_, UK).
 
@@ -392,7 +392,7 @@ Setiap sel dalam _Zachman Framework_ merepresentasikan tipe yang unik dari artif
    
    Gambar 3.8. Zachman Framework:
 
-   ![zachman framework](../images/laporan-pendahuluan/zachman-framework.png)
+   ![zachman framework](../document/images/laporan-pendahuluan/zachman-framework.png)
 
 
 

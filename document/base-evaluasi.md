@@ -19,7 +19,7 @@ Standar evaluasi teknologi informasi yang sering digunakan dalam sebuah organisa
 3. ITIL
 4. COSO
 
-![perbandingan framework](../images/base-evaluasi/perbandingan-framework-audit-populer.png)
+![perbandingan framework](../document/images/base-evaluasi/perbandingan-framework-audit-populer.png)
 
 ### GAMBAR  PERBANDINGAN FRAMEWORK AUDIT POPULER
 
@@ -46,7 +46,7 @@ Seperti yang sudah disampaikan sebelumnya terkait objektifitas evaluasi pada mas
  1. Keamanan<br><br>
     Setiap aplikasi yang dibangun baik itu desktop, web based, maupun mobile applications, sangat mungkin memiliki celah keamanan. Bahkan aplikasi yang dibangun oleh perusahaan ternama sekalipun masih saja memiliki celah keamanan yang tidak terdeteksi. Tetapi beberapa celah yang sudah teridentifikasi secara umum perlu dianulir atau dicegah agar tidak menjadi jalan masuk pihak pihak yang tidak bertanggungjawab atau mempengaruhi kinerja sistem tersebut.
 
-  ![celah keamanan](../images/base-evaluasi/celah-keamanan.png)
+  ![celah keamanan](../document/images/base-evaluasi/celah-keamanan.png)
     
    2. Ketersediaan<br><br>
     Berdasarkan urgensitas, tingkat ketersediaan sebuah layanan aplikasi dan data secara empiris dapat dibagi menjadi 4 (empat), yaitu :<br>
@@ -75,7 +75,7 @@ Seperti yang sudah disampaikan sebelumnya terkait objektifitas evaluasi pada mas
     Sebagai contoh sistem kearsipan, pada sebuah organsasi setingkat Bidang atau Seksi mungkin tidak begitu terasa perkembangan pertambahan data suratnya, tetapi apabila sudah mencakup sebuah SKPD, dimana ada pertambahan data secara signifikan di setiap harinya karena adanya penyimpanan softcopy arsip kedalam storage secara terus menerus, maka skalabilitas storage sangat diperlukan.<br><br>
     Dalam kasus yang berbeda, sebuah sistem perlu dapat tetap beroperasi dengan baik tanpa dipengaruhi jumlah pengguna yang mengkasesnya. 
 
-  ![skalabilitas aplikasi dan data](../images/base-evaluasi/skalabilitas-aplikasi-dan-data.png)
+  ![skalabilitas aplikasi dan data](../document/images/base-evaluasi/skalabilitas-aplikasi-dan-data.png)
 
 
  6. Kehandalan<br><br>
@@ -158,43 +158,43 @@ Dalam pelaksanaannya, kami akan menggunakan beberapa alat bantu (tools) yang ter
 
 **_Timeline Utama_**:
 
-![timeline utama](../images/base-evaluasi/timeline-utama.png)
+![timeline utama](../document/images/base-evaluasi/timeline-utama.png)
 
 **_Rencana Timeline Extract Informasi Aplikasi - Hari Pertama_**:
 
-![rencana timeline hari pertama](../images/base-evaluasi/rencana-timeline-hari-pertama.png)
+![rencana timeline hari pertama](../document/images/base-evaluasi/rencana-timeline-hari-pertama.png)
 
 **_Rencana Timeline Extract Informasi Aplikasi - Hari Kedua_**:
 
-![rencana timeline hari kedua](../images/base-evaluasi/rencana-timeline-hari-kedua.png)
+![rencana timeline hari kedua](../document/images/base-evaluasi/rencana-timeline-hari-kedua.png)
 
 **_Rencana Timeline Extract Informasi Aplikasi - Hari Ketiga_**:
 
-![rencana timeline hari ketiga](../images/base-evaluasi/rencana-timeline-hari-ketiga.png)
+![rencana timeline hari ketiga](../document/images/base-evaluasi/rencana-timeline-hari-ketiga.png)
 
 **_Rencana Timeline Extract Informasi Aplikasi - Hari Keempat_**:
 
-![rencana timeline hari keempat](../images/base-evaluasi/rencana-timeline-hari-keempat.png)
+![rencana timeline hari keempat](../document/images/base-evaluasi/rencana-timeline-hari-keempat.png)
 
 **_Rencana Timeline Extract Informasi Aplikasi - Hari Kelima_**:
 
-![rencana timeline hari kelima](../images/base-evaluasi/rencana-timeline-hari-kelima.png)
+![rencana timeline hari kelima](../document/images/base-evaluasi/rencana-timeline-hari-kelima.png)
 
 **_Rencana Timeline Extract Informasi Aplikasi - Hari Keenam_**:
 
-![rencana timeline hari keenam](../images/base-evaluasi/rencana-timeline-hari-keenam.png)
+![rencana timeline hari keenam](../document/images/base-evaluasi/rencana-timeline-hari-keenam.png)
 
 **_Rencana Timeline Extract Informasi Aplikasi - Hari Ketujuh_**:
 
-![rencana timeline hari ketujuh](../images/base-evaluasi/rencana-timeline-hari-ketujuh.png)
+![rencana timeline hari ketujuh](../document/images/base-evaluasi/rencana-timeline-hari-ketujuh.png)
 
 **_Rencana Timeline Extract Informasi Dari Pengguna_**:
 
-![rencana timeline dari pengguna](../images/base-evaluasi/rencana-timeline-dari-pengguna.png)
+![rencana timeline dari pengguna](../document/images/base-evaluasi/rencana-timeline-dari-pengguna.png)
 
 **_Rencana Timeline Extract Informasi Jaringan, Server, dan Infrastruktur_**:
 
-![rencana timeline jaringan server infrastruktur](../images/base-evaluasi/rencana-timeline-jaringan-server-infrastruktur.png)
+![rencana timeline jaringan server infrastruktur](../document/images/base-evaluasi/rencana-timeline-jaringan-server-infrastruktur.png)
 
 
 **Lampiran Lampiran**
