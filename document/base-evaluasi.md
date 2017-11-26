@@ -50,8 +50,8 @@ Seperti yang sudah disampaikan sebelumnya terkait objektifitas evaluasi pada mas
     
    2. Ketersediaan<br><br>
     Berdasarkan urgensitas, tingkat ketersediaan sebuah layanan aplikasi dan data secara empiris dapat dibagi menjadi 4 (empat), yaitu :<br>
-    
-    a. low (rendah) : apabila layanan atau data yang dimaksud merupakan sistem pelayanan publik atau internal yang tidak memerlukan pencatatan waktu transaksi. Misalnya aplikasi web untuk informasi wilayah.<br>
+  
+   a. low (rendah) : apabila layanan atau data yang dimaksud merupakan sistem pelayanan publik atau internal yang tidak memerlukan pencatatan waktu transaksi. Misalnya aplikasi web untuk informasi wilayah.<br>
     b. medium (menengah) :  apabila layanan atau data yang dimaksud merupakan sistem pelayanan publik atau internal yang memerlukan pencatatan waktu transaksi sampai level hari/tanggal. Misalnya aplikasi SIM Kepegawaian.<br>
     c. High (tinggi) :  apabila layanan atau data yang dimaksud merupakan sistem pelayanan publik atau internal yang memerlukan pencatatan waktu transaksi sampai level jam. Misalnya sistem informasi persuratan atau kearsipan.<br>
     d. critical (kritis/sangat tinggi) :  apabila layanan atau data yang dimaksud merupakan sistem pelayanan publik atau internal yang memerlukan pencatatan waktu transaksi sampai level detik. Misalnya sistem pembayaran pada perpajakan.<br><br>
