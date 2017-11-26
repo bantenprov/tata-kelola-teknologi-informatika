@@ -253,13 +253,13 @@ Skenario pelaksanaan kegiatan proyek ini dikembangkan berdasarkan sistematika la
 
 Gambar 3.2. Skenario Kegiatan Proyek:
 
-![skenario kegiatan](../document/images/laporan-pendahluan/skenario-kegiatan-proyek.png)
+![skenario kegiatan](../document/images/laporan-pendahuluan/skenario-kegiatan-proyek.png)
 
 Pada hakekatnya, pendekatan teknis adalah tahapan atau fase-fase yang dijalankan secara berurutan agar sasaran proyek bisa tercapai. Sementara kerangka kerja merupakan aspek-aspek yang difokuskan dalam setiap fase yang ada.
 
 Gambar 3.3. Kerangka Kerja:
 
-![kerangka kerja](../document/images/laopran-pendahuluan/kerangka-kerja.png)
+![kerangka kerja](../document/images/laporan-pendahuluan/kerangka-kerja.png)
 
 i. **Strategi**<br>
    Fokus Strategi adalah pada visi, misi dan sasaran TI, kebijakan yang perlu dibuat, rencana & tahapan pengembangan, rencana pemaduan sistem dan hal-hal lainnya yang bersifat strategis.
@@ -358,7 +358,7 @@ Atas dasar konseptual Penyusunan diatas, maka Metode Penyusunan Pedoman Teknis T
 
 Gambar 3.7. Metode Metode Penyusunan Pedoman Teknis TataKelola TIK:
 
-![metode metode penyusunan](../document/images/laopran-pendahuluan/metode-metode-penyusunan-pedoman-teknis.png)
+![metode metode penyusunan](../document/images/laporan-pendahuluan/metode-metode-penyusunan-pedoman-teknis.png)
 
 Metodologi Penyusunan Pedoman Teknis Tata Kelola TIK adalah hasil kolaborasi dari **Keputusan MENKOMINFO No. 57/KEPMEN/M.KOMINFO/12/2003** tentang “Panduan Penyusunan Rencana Induk Pengembangan e-Government Lembaga” dengan Diskominfo Provinsi Banten dan penyusunan perencanaan strategis teknologi informasi (_Strategic Planning for Information Systems , John Ward & Joe Peppard, Bedfordshire_, UK).
 
