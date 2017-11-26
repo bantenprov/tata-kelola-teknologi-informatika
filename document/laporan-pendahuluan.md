@@ -100,7 +100,7 @@ Gambar 1.1. Bagan Organisasi Proyek:
 
 Gambar 1.2. Bagian Koordinasi Tim Konsultan & Tim Diskominfo Provinsi Banten:
 
-![bagan koordinasi](../document/images/laporan-prndahuluan/bagam-koordinasi.png)
+![bagan koordinasi](../document/images/laporan-pendahuluan/bagam-koordinasi.png)
 
 #### 1.3.2 Tugas dan Tanggungjawab
 
@@ -108,7 +108,9 @@ Sesuai dengan lingkup pekerjaan yang akan dilaksanakan, dan sesuai pula dengan k
 
 Pembagian tugas dari masing-masing tenaga ahli dan tenag pendukung adalah sebagai berikut:
 
-Tabel 1.1 Tenaga Ahli dan Tenaga Pendukung-Fungsi dan Tanggungjawab
+Tabel 1.1 Tenaga Ahli dan Tenaga Pendukung-Fungsi dan Tanggungjawab:
+
+![tabel tenaga ahli](..document/images/laporan-pendahuluan/tabel-tenaga-ahli-dan-pendukung.png)
 
 ### 1.4 Lokasi Kegiatan
 
