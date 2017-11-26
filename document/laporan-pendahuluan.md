@@ -96,7 +96,7 @@ Berikut ini adalah struktur organisasi dan bagan koordinasi pada pekerjaan ini:
 
 Gambar 1.1. Bagan Organisasi Proyek:
 
-![bagan organisasi proyek](../document/images/laporan-pendahuluan/bagan-organisasi-proyek.png)
+![bagan organisasi proyek](images/laporan-pendahuluan/bagan-organisasi-proyek.png)
 
 Gambar 1.2. Bagian Koordinasi Tim Konsultan & Tim Diskominfo Provinsi Banten:
 
