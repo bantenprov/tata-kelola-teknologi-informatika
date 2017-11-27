@@ -377,7 +377,7 @@ Dalam pelaksanaannya, kami akan menggunakan beberapa alat bantu (tools) yang ter
   |**FN-01**| **Evaluasi Jaringan** | 2 Halaman |
   |---------|-----------------------|-----------|
   |Nama Pengguna | | |
-  |Jabatan||Tangga:|
+  |Jabatan||Tanggal:|
   
   a. Keamanan:
   - i. apakah ruang server dikunci?
