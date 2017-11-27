@@ -45,7 +45,7 @@ Kerangka Acuan Kerja Penyusunan Pedoman Teknis Tata Kelola TIK ,merupakan sebagi
 
 Sasaran inti Penyusunan Pedoman Teknis Tata kelola TIK ini adalah:
 
-a) Terwujudnya integrasi sistem eksisting dengan sistem yang akan dibangun.
+a) Terwujudnya integrasi sistem eksisting dengan sistem yang akan dibangun.<br>
 b) Terwujudnya pembangunan infrastruktur dan jaringan komunikasi data baik internal maupun eksternal.
 
 ### 1.2 Ruang Lingkup Kegiatan
