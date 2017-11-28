@@ -56,8 +56,7 @@ Peraturan Menteri Kominfo No.41 Tahun 2007 tentang Panduan Umum Tata Kelola TIK 
 
 Kerangka Acuan Kerja Penyusunan Pedoman Teknis Tata Kelola TIK adalah merupakan Implementasi Peraturan Menteri Kominfo tersebut, di masing-masing instansi pemerintah perlu dievaluasi, untuk mengetahui apakah peraturan menteri tersebut sudah cukup baik ataukah memerlukan revisi atau perubahan. Selain itu, masing-masing instansi pemerintah bisa melakukan evaluasi tata kelola TIK berdasarkan peraturan menteri tersebut untuk mengukur serta 
 Kerangka Acuan Kerja Penyusunan Pedoman Teknis Tata Kelola TIK adalah merupakan Implementasi Peraturan Menteri Kominfo tersebut, di masing-masing instansi pemerintah perlu dievaluasi, untuk mengetahui apakah peraturan menteri tersebut sudah cukup baik ataukah memerlukan revisi atau perubahan. Selain itu, masing-masing instansi pemerintah bisa melakukan evaluasi tata kelola TIK berdasarkan peraturan menteri tersebut untuk mengukur serta meningkatkan kinerja instansinya.  
- meningkatkan kinerja instansinya.  
- 
+  
 Yang mampu menjawab permasalahan, tujuan dan sasaran yang akan dicapai oleh penyusunan tersebut,yaitu mencakup hal – hal yang perlu diperhatikan antara lain :
 
 a. Melakukan assessment terhadap kondisi eksisting di lingkungan SKPD Provinsi Banten terkait pemanfaatan teknologi, informasi dan komunikasi (TIK) serta kebutuhan dari user/SKPD.
@@ -195,7 +194,7 @@ Jadwal pekerjaan proyek dihitung berdasarkan jumlah sumber daya proyek (_full ti
 
 Jadwal pekerjaan proyek dihitung berdasarkan jumlah sumber daya proyek (full time equivalent). Proyek dianggarkan untuk berjalan selama kurang lebih 1 (Satu) bulan kalender atau 30 hari kalender, Gantt Chart berikut ini memberikan gambaran yang lebih terperinci tentang kegiatan yang dilakukan selama proyek, beserta dengan perkiraan waktunya.
 
-tabel jadwal kegiatan
+![tabel jadwal kegiatan](../document/images/laporan-pendahuluan/tabel-jadwal-kegiatan.png)
 
 ## 3. PENDEKATAN DAN METODOLOGI PELAKSANAAN
 
@@ -402,7 +401,9 @@ Setiap sel dalam _Zachman Framework_ merepresentasikan tipe yang unik dari artif
 
 Untuk memastikan berjalannya kegiatan dengan lancar dan dengan sedikit mungkin hambatan, maka diperlukan suatu perencanaan proyek yang dirancang dengan matang dan terstruktur. Hal ini akan sangat membantu dalam menjaga agar batas akhir proyek tidak terlewati. Untuk melakukan hal ini, maka perlu dibuat daftar kegiatan dalam proyek beserta _output_ yang diharapkan dari masing-masing aktivitas, serta jadwal dari masing-masing pekerjaan tersebut.
 
-tabel 3.1: Rencana Kerja Penyusunan Pedoma Teknis Tata Kelola TIK
+Tabel 3.1: Rencana Kerja Penyusunan Pedoma Teknis Tata Kelola TIK:
+
+![rencana kerja](../document/images/laporan-pendahuluan/tabel-rencana-kerja.png)
 
 ## 4. PELAKSANAAN kEGIATAN DAN RENCANA TINDAK LANJUT
 
@@ -479,7 +480,9 @@ Persiapan pendataan dan koleksi dokumen dilaksanakan dengan membuat kuesioner ya
       
       Disamping informasi tentang infrastruktur diatas, diperlukan juga informasi tentang penempatannya.
 
-tabel 4.1: Usulan Konten
+Tabel 4.1: Usulan Konten:
+
+![usulan konten](../document/images/laporan-pendahuluan/tabel-usulan-konten.png)
 
 #### 4.1.6 Rencana Tindak Lanjut
 
