@@ -413,7 +413,7 @@ Dalam pelaksanaannya, kami akan menggunakan beberapa alat bantu (tools) yang ter
   
   - iv. apakah tersedia genset?
   
-  |   |
+  |  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
   |---|
   |Jelaskan dengan narasi:   |
   
