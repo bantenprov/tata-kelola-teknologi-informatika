@@ -199,7 +199,7 @@ Dalam pelaksanaannya, kami akan menggunakan beberapa alat bantu (tools) yang ter
 
 **Lampiran Lampiran**
 
-|**FA-01**      |**Pengguna Aplikasi**                 |3 Halaman          |
+|**FA-01**      |**Pengguna Aplikasi** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|3 Halaman &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         |
 |---------------|--------------------------------------|-------------------|
 |Nama Pengguna  |                                      |                   |
 |Jabatan        |                                      |Tanggal:           |
@@ -305,11 +305,11 @@ Dalam pelaksanaannya, kami akan menggunakan beberapa alat bantu (tools) yang ter
   |---|
   |<br><br><br><br><br> |
   
-  |**FU-01**   | **Evaluasi Prosedur di Unit Kerja/OPD** | 2 Halaman 
-  |------------|------------|---------
-  |Nama pengguna| |
-  |Jabatan   | | Tanggal:
-  
+  |**FU-01**      |**Evalusai Prosedur di Unit Kerja/OPD** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|2 Halaman &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         |
+|---------------|--------------------------------------|-------------------|
+|Nama Pengguna  |                                      |                   |
+|Jabatan        |                                      |Tanggal:           |
+    
   a. Keamanan:<br>
   - i. apakah ada prosedur masuk ruangan server?
   
@@ -374,11 +374,11 @@ Dalam pelaksanaannya, kami akan menggunakan beberapa alat bantu (tools) yang ter
   h. keefisiensian:
   - i.
   
-  |**FN-01**| **Evaluasi Jaringan** | 2 Halaman |
-  |---------|-----------------------|-----------|
-  |Nama Pengguna | | |
-  |Jabatan||Tanggal:|
-  
+  |**FN-01**      |**Evaluasi Jaringan** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|2 Halaman &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         |
+|---------------|--------------------------------------|-------------------|
+|Nama Pengguna  |                                      |                   |
+|Jabatan        |                                      |Tanggal:           |
+   
   a. Keamanan:
   - i. apakah ruang server dikunci?
   
